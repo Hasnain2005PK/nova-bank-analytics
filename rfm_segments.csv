@@ -1,0 +1,7 @@
+segment,customers,avg_recency_days,total_value_pkr,pct_of_customers,pct_of_value
+At Risk - High Value,1238,448.7,1056252083.7,11.6,22.0
+Champions,1811,3.6,1709791976.1,17.0,35.6
+Hibernating,3018,443.7,410810359.8,28.3,8.5
+Loyal,1311,3.9,492576985.5,12.3,10.2
+Needs Attention,2131,37.8,962581793.6,20.0,20.0
+New / Low Activity,1163,3.4,175135810.9,10.9,3.6

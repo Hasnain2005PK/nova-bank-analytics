@@ -1,0 +1,37 @@
+branch_id,branch_name,city,province,branch_tier
+BR1001,Karachi Branch 1,Karachi,Sindh,Standard
+BR1002,Karachi Branch 2,Karachi,Sindh,Sub-branch
+BR1003,Lahore Branch 1,Lahore,Punjab,Standard
+BR1004,Lahore Branch 2,Lahore,Punjab,Flagship
+BR1005,Lahore Branch 3,Lahore,Punjab,Sub-branch
+BR1006,Lahore Branch 4,Lahore,Punjab,Sub-branch
+BR1007,Lahore Branch 5,Lahore,Punjab,Sub-branch
+BR1008,Islamabad Branch 1,Islamabad,Islamabad,Standard
+BR1009,Islamabad Branch 2,Islamabad,Islamabad,Standard
+BR1010,Islamabad Branch 3,Islamabad,Islamabad,Sub-branch
+BR1011,Islamabad Branch 4,Islamabad,Islamabad,Standard
+BR1012,Rawalpindi Branch 1,Rawalpindi,Punjab,Sub-branch
+BR1013,Rawalpindi Branch 2,Rawalpindi,Punjab,Standard
+BR1014,Faisalabad Branch 1,Faisalabad,Punjab,Standard
+BR1015,Faisalabad Branch 2,Faisalabad,Punjab,Flagship
+BR1016,Faisalabad Branch 3,Faisalabad,Punjab,Sub-branch
+BR1017,Multan Branch 1,Multan,Punjab,Standard
+BR1018,Multan Branch 2,Multan,Punjab,Sub-branch
+BR1019,Peshawar Branch 1,Peshawar,Khyber Pakhtunkhwa,Sub-branch
+BR1020,Peshawar Branch 2,Peshawar,Khyber Pakhtunkhwa,Sub-branch
+BR1021,Peshawar Branch 3,Peshawar,Khyber Pakhtunkhwa,Sub-branch
+BR1022,Peshawar Branch 4,Peshawar,Khyber Pakhtunkhwa,Flagship
+BR1023,Quetta Branch 1,Quetta,Balochistan,Standard
+BR1024,Quetta Branch 2,Quetta,Balochistan,Flagship
+BR1025,Quetta Branch 3,Quetta,Balochistan,Flagship
+BR1026,Hyderabad Branch 1,Hyderabad,Sindh,Standard
+BR1027,Hyderabad Branch 2,Hyderabad,Sindh,Sub-branch
+BR1028,Hyderabad Branch 3,Hyderabad,Sindh,Standard
+BR1029,Hyderabad Branch 4,Hyderabad,Sindh,Standard
+BR1030,Sialkot Branch 1,Sialkot,Punjab,Standard
+BR1031,Sialkot Branch 2,Sialkot,Punjab,Flagship
+BR1032,Sialkot Branch 3,Sialkot,Punjab,Flagship
+BR1033,Sialkot Branch 4,Sialkot,Punjab,Standard
+BR1034,Dera Ismail Khan Branch 1,Dera Ismail Khan,Khyber Pakhtunkhwa,Standard
+BR1035,Dera Ismail Khan Branch 2,Dera Ismail Khan,Khyber Pakhtunkhwa,Standard
+BR1036,Dera Ismail Khan Branch 3,Dera Ismail Khan,Khyber Pakhtunkhwa,Sub-branch
