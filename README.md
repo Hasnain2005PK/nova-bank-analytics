@@ -12,7 +12,7 @@ An end-to-end data analyst project on a simulated retail bank: 12,000 customers,
 ![Overview](Dashboard%20Image%201.png)
 
 **Customers & Deposits**
-![Customers & Deposits](Dashboard%20Image%201.png)
+![Customers & Deposits](Dashboard%20Image%202.png)
 
 **Credit Risk & Loan Book**
 ![Credit Risk](Dashboard%20Image%203.png)
