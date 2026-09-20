@@ -5,18 +5,16 @@ An end-to-end data analyst project on a simulated retail bank: 12,000 customers,
 3-page Power BI dashboard.
 
 ---
-
 ## Dashboard Preview
 
 **Overview**
-![Overview](Dashboard%20Image%201.png)
+![Overview](Dashboard%20Image%202.png)
 
 **Customers & Deposits**
-![Customers & Deposits](Dashboard%20Image%202.png)
+![Customers & Deposits](Dashboard%20Image%201.png)
 
 **Credit Risk & Loan Book**
 ![Credit Risk](Dashboard%20Image%203.png)
-
 ---
 
 ## Project Workflow
